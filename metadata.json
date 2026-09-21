@@ -1,0 +1,7 @@
+{
+  "name": "Tug of War Mini Game",
+  "description": "Trò chơi kéo co đố vui kiến thức 3 cột: Đội Đỏ vs Đội Xanh với hệ thống quản lý câu hỏi (thêm, sửa, xóa, tìm kiếm), hiệu ứng kéo dây kịch tính theo câu trả lời đúng/sai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
